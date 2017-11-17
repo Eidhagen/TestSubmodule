@@ -2,4 +2,4 @@ import numpy as np
 
 
 x = 12
-y = 'niklas E'
+y = 'niklas J'
