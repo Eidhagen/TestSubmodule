@@ -1,5 +1,5 @@
 import numpy as np
 
 
-x = 12
-y = 3
+x = 55
+y = 'niklas E'
