@@ -11,3 +11,5 @@ result = x+q
 
 
 add a var commit 3
+
+'add after revert of second commit'
