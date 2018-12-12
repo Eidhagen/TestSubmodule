@@ -7,4 +7,3 @@ q = 4
 
 result = x+q
 
-'Added in branch first commit'
