@@ -7,7 +7,3 @@ q = 4
 
 result = x+q
 
-
-test merge revert 1
-
-added after merge
