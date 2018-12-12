@@ -6,3 +6,6 @@ y = 'niklas J'
 q = 4
 
 result = x+q
+
+
+test merge revert 1
