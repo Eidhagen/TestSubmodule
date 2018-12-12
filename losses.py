@@ -8,3 +8,6 @@ q = 4
 result = x+q
 
 'added in first commit'
+
+
+add a var commit 3
